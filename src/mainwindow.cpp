@@ -10,6 +10,7 @@
 #include <QMessageBox>
 #include <QPushButton>
 #include <QRegularExpression>
+#include <QSettings>
 #include <QStandardPaths>
 #include <QTimer>
 #include <QVBoxLayout>
@@ -24,7 +25,6 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     // First launch: start with the built-in Italian deck.
     if (!m_deck.load(m_path) || m_deck.total() == 0)
         m_deck.load(":/data/italian_1000.json");
-    m_deck.startSession();
 
     auto *central = new QWidget;
     auto *layout = new QVBoxLayout(central);
@@ -60,6 +60,13 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     layout->addWidget(m_status);
 
     auto *row2 = new QHBoxLayout;
+    m_prevBtn = new QPushButton("◀ Previous group");
+    m_nextBtn = new QPushButton("Next group ▶");
+    row2->addWidget(m_prevBtn);
+    row2->addWidget(m_nextBtn);
+    layout->addLayout(row2);
+
+    row2 = new QHBoxLayout;
     auto *addBtn = new QPushButton("Add card");
     auto *importBtn = new QPushButton("Import deck");
     auto *restartBtn = new QPushButton("Restart");
@@ -70,17 +77,43 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
 
     // Enter in the text box and the Check button do the same thing:
     // check the guess, or (after a wrong answer) go to the next card.
-    auto onEnter = [this] { m_showingAnswer ? next() : check(); };
+    auto onEnter = [this] {
+        if (m_showingAnswer) next();
+        else if (!m_deck.hasCurrent()) nextGroup();   // group finished
+        else check();
+    };
     connect(m_input, &QLineEdit::returnPressed, this, onEnter);
     connect(m_checkBtn, &QPushButton::clicked, this, onEnter);
     connect(addBtn, &QPushButton::clicked, this, &MainWindow::addCard);
     connect(importBtn, &QPushButton::clicked, this, &MainWindow::importDeck);
     connect(restartBtn, &QPushButton::clicked, this, &MainWindow::restart);
+    connect(m_prevBtn, &QPushButton::clicked, this, &MainWindow::prevGroup);
+    connect(m_nextBtn, &QPushButton::clicked, this, &MainWindow::nextGroup);
 
     setCentralWidget(central);
     setWindowTitle("Flashcards");
+
+    // Continue from the group you were on last time.
+    startGroup(QSettings().value("group", 0).toInt());
+}
+
+int MainWindow::groupCount() const {
+    return (m_deck.total() + GroupSize - 1) / GroupSize;
+}
+
+void MainWindow::startGroup(int g) {
+    m_group = qBound(0, g, qMax(0, groupCount() - 1));
+    QSettings().setValue("group", m_group);
+    m_deck.startSession(m_group * GroupSize, GroupSize);
+    m_known = 0;
+    m_showingAnswer = false;
+    m_input->setReadOnly(false);
+    m_feedback->clear();
     showCard();
 }
+
+void MainWindow::prevGroup() { startGroup(m_group - 1); }
+void MainWindow::nextGroup() { startGroup(m_group + 1); }
 
 MainWindow::~MainWindow() { m_deck.save(m_path); }
 
@@ -114,19 +147,23 @@ void MainWindow::showCard() {
     bool has = m_deck.hasCurrent();
     m_input->clear();
     m_input->setEnabled(has);
-    m_checkBtn->setEnabled(has);
-    m_checkBtn->setText("Check");
+    m_checkBtn->setEnabled(has || m_group < groupCount() - 1);
+    m_checkBtn->setText(has ? "Check" : "Next group");
+    m_prevBtn->setEnabled(m_group > 0);
+    m_nextBtn->setEnabled(m_group < groupCount() - 1);
 
     if (has) {
         m_cardLabel->setText(m_deck.current().front);
         m_input->setFocus();
     } else {
-        m_cardLabel->setText("Done! 🎉");
-        m_feedback->setText("You know all the cards in this round.\nPress Restart to go again.");
+        m_cardLabel->setText("Group done! 🎉");
+        m_feedback->setText(m_group < groupCount() - 1
+                                ? "You know all 10 words.\nPress Enter for the next group."
+                                : "You finished the last group!");
         m_feedback->setStyleSheet("font-size: 16px; color: #2e7d32;");
     }
-    m_status->setText(QString("Known: %1   ·   Left: %2   ·   Total: %3")
-                          .arg(m_known).arg(m_deck.remaining()).arg(m_deck.total()));
+    m_status->setText(QString("Group %1 of %2   ·   Known: %3   ·   Left: %4")
+                          .arg(m_group + 1).arg(groupCount()).arg(m_known).arg(m_deck.remaining()));
 }
 
 void MainWindow::check() {
@@ -158,14 +195,7 @@ void MainWindow::next() {
     showCard();
 }
 
-void MainWindow::restart() {
-    m_deck.startSession();
-    m_known = 0;
-    m_showingAnswer = false;
-    m_input->setReadOnly(false);
-    m_feedback->clear();
-    showCard();
-}
+void MainWindow::restart() { startGroup(m_group); }
 
 void MainWindow::addCard() {
     QDialog dlg(this);
@@ -184,7 +214,7 @@ void MainWindow::addCard() {
         m_deck.addCard(front->text(), back->text());
         m_deck.save(m_path);
         if (!m_showingAnswer)
-            showCard();
+            showCard();   // new cards land in the last group
     }
 }
 
@@ -199,5 +229,5 @@ void MainWindow::importDeck() {
     }
     m_deck = d;
     m_deck.save(m_path);
-    restart();
+    startGroup(0);
 }

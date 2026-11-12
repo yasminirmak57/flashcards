@@ -34,13 +34,13 @@ bool Deck::save(const QString &path) const {
 }
 
 void Deck::addCard(const QString &front, const QString &back) {
-    m_cards.push_back({front, back});
-    m_queue.push_back(m_cards.size() - 1);
+    m_cards.push_back({front, back});   // studied when you reach its group
 }
 
-void Deck::startSession() {
+void Deck::startSession(int from, int count) {
     m_queue.clear();
-    for (int i = 0; i < m_cards.size(); ++i)
+    int end = (count < 0) ? m_cards.size() : std::min<int>(m_cards.size(), from + count);
+    for (int i = std::max(0, from); i < end; ++i)
         m_queue.push_back(i);
     std::shuffle(m_queue.begin(), m_queue.end(), *QRandomGenerator::global());
 }

@@ -10,7 +10,7 @@ public:
     bool save(const QString &path) const;
 
     void addCard(const QString &front, const QString &back);
-    void startSession();              // shuffle all cards into the queue
+    void startSession(int from = 0, int count = -1);  // shuffle cards [from, from+count) into the queue
     bool hasCurrent() const;
     Card &current();
     void answer(bool gotIt);          // missed cards go to the back of the queue
