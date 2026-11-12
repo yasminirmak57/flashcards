@@ -15,6 +15,7 @@ public:
     Card &current();
     void answer(bool gotIt);          // missed cards go to the back of the queue
 
+    void mergeSynonyms(const Deck &from);   // copy 'alt' lists from a deck with the same words
     int total() const { return m_cards.size(); }
     int remaining() const { return m_queue.size(); }
 

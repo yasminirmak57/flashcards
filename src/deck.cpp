@@ -1,5 +1,6 @@
 #include "deck.h"
 #include <QFile>
+#include <QHash>
 #include <QJsonArray>
 #include <QJsonDocument>
 #include <QJsonObject>
@@ -14,8 +15,12 @@ bool Deck::load(const QString &path) {
     m_cards.clear();
     for (const auto &v : arr) {
         const QJsonObject o = v.toObject();
-        m_cards.push_back({o["front"].toString(), o["back"].toString(),
-                           o["correct"].toInt(), o["missed"].toInt()});
+        Card c{o["front"].toString(), o["back"].toString()};
+        for (const auto &a : o["alt"].toArray())
+            c.alt << a.toString();
+        c.correct = o["correct"].toInt();
+        c.missed = o["missed"].toInt();
+        m_cards.push_back(c);
     }
     return true;
 }
@@ -23,8 +28,11 @@ bool Deck::load(const QString &path) {
 bool Deck::save(const QString &path) const {
     QJsonArray arr;
     for (const Card &c : m_cards) {
-        arr.append(QJsonObject{{"front", c.front}, {"back", c.back},
-                               {"correct", c.correct}, {"missed", c.missed}});
+        QJsonObject o{{"front", c.front}, {"back", c.back},
+                      {"correct", c.correct}, {"missed", c.missed}};
+        if (!c.alt.isEmpty())
+            o["alt"] = QJsonArray::fromStringList(c.alt);
+        arr.append(o);
     }
     QFile f(path);
     if (!f.open(QIODevice::WriteOnly))
@@ -43,6 +51,15 @@ void Deck::startSession(int from, int count) {
     for (int i = std::max(0, from); i < end; ++i)
         m_queue.push_back(i);
     std::shuffle(m_queue.begin(), m_queue.end(), *QRandomGenerator::global());
+}
+
+void Deck::mergeSynonyms(const Deck &from) {
+    QHash<QString, QStringList> alts;
+    for (const Card &c : from.m_cards)
+        alts.insert(c.front, c.alt);
+    for (Card &c : m_cards)
+        if (c.alt.isEmpty() && alts.contains(c.front))
+            c.alt = alts.value(c.front);
 }
 
 bool Deck::hasCurrent() const { return !m_queue.isEmpty(); }

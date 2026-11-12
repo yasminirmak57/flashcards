@@ -23,8 +23,12 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     m_path = dir + "/cards.json";
 
     // First launch: start with the built-in Italian deck.
+    Deck builtIn;
+    builtIn.load(":/data/italian_1000.json");
     if (!m_deck.load(m_path) || m_deck.total() == 0)
-        m_deck.load(":/data/italian_1000.json");
+        m_deck = builtIn;
+    else
+        m_deck.mergeSynonyms(builtIn);   // saved decks from older versions get the new synonyms
 
     auto *central = new QWidget;
     auto *layout = new QVBoxLayout(central);
@@ -129,16 +133,16 @@ static QString normalize(QString s) {
     return s.trimmed();
 }
 
-// A guess is right if it matches any of the comma-separated meanings,
-// e.g. "house" is right for "home, house".
-bool MainWindow::isCorrect(const QString &guess, const QString &answer) {
+// A guess is right if it matches any of the comma-separated meanings
+// ("house" for "home, house") or one of the card's synonyms ("dad" for "father").
+bool MainWindow::isCorrect(const QString &guess, const Card &card) {
     const QString g = normalize(guess);
     if (g.isEmpty())
         return false;
-    if (g == normalize(answer))
-        return true;
-    for (const QString &part : answer.split(QRegularExpression("[,/;]")))
-        if (g == normalize(part))
+    QStringList accepted = card.back.split(QRegularExpression("[,/;]"));
+    accepted << card.back << card.alt;
+    for (const QString &a : accepted)
+        if (g == normalize(a))
             return true;
     return false;
 }
@@ -171,7 +175,7 @@ void MainWindow::check() {
         return;
     const QString answer = m_deck.current().back;
 
-    if (isCorrect(m_input->text(), answer)) {
+    if (isCorrect(m_input->text(), m_deck.current())) {
         m_deck.answer(true);     // into the "known" pile
         ++m_known;
         m_feedback->setText("✓ Correct!  (" + answer + ")");

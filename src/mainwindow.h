@@ -25,7 +25,7 @@ private:
     void showCard();
     void startGroup(int g);
     int groupCount() const;
-    static bool isCorrect(const QString &guess, const QString &answer);
+    static bool isCorrect(const QString &guess, const Card &card);
 
     Deck m_deck;
     QString m_path;
