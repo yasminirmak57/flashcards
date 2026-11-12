@@ -1,0 +1,6932 @@
+[
+ {
+  "front": "cosa",
+  "back": "thing",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "anno",
+  "back": "year",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uomo",
+  "back": "man",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giorno",
+  "back": "day",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volta",
+  "back": "time (occasion)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "casa",
+  "back": "home, house",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "parte",
+  "back": "part",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vita",
+  "back": "life",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tempo",
+  "back": "time, weather",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "donna",
+  "back": "woman",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mano",
+  "back": "hand",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "occhio",
+  "back": "eye",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ora",
+  "back": "hour, now",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "signore",
+  "back": "gentleman, Mr.",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "paese",
+  "back": "country, town",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "momento",
+  "back": "moment",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "modo",
+  "back": "way",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mondo",
+  "back": "world",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "parola",
+  "back": "word",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "padre",
+  "back": "father",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "punto",
+  "back": "point",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lavoro",
+  "back": "work",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stato",
+  "back": "state",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "caso",
+  "back": "case",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "città",
+  "back": "city",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "guerra",
+  "back": "war",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "strada",
+  "back": "street, road",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "figlio",
+  "back": "son",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "notte",
+  "back": "night",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "voce",
+  "back": "voice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nome",
+  "back": "name",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sera",
+  "back": "evening",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "acqua",
+  "back": "water",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "amico",
+  "back": "friend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fatto",
+  "back": "fact",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gente",
+  "back": "people",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "amore",
+  "back": "love",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "storia",
+  "back": "history, story",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aria",
+  "back": "air",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "forza",
+  "back": "strength, force",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "testa",
+  "back": "head",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ragione",
+  "back": "reason",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mare",
+  "back": "sea",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mese",
+  "back": "month",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "capo",
+  "back": "head, boss",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "luce",
+  "back": "light",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sole",
+  "back": "sun",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "famiglia",
+  "back": "family",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piede",
+  "back": "foot",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "persona",
+  "back": "person",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "via",
+  "back": "street",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "signora",
+  "back": "lady, Mrs.",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "governo",
+  "back": "government",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "senso",
+  "back": "sense",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "opera",
+  "back": "work, opera",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prodotto",
+  "back": "product",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "festa",
+  "back": "party",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gioco",
+  "back": "game",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prova",
+  "back": "test, proof",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "campagna",
+  "back": "countryside",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fiore",
+  "back": "flower",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sala",
+  "back": "room, hall",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "misura",
+  "back": "measure",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "posizione",
+  "back": "position",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "natura",
+  "back": "nature",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ufficio",
+  "back": "office",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "specie",
+  "back": "species",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "successo",
+  "back": "success",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "zona",
+  "back": "area",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fuoco",
+  "back": "fire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "soldato",
+  "back": "soldier",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vista",
+  "back": "view",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "libertà",
+  "back": "freedom",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "risultato",
+  "back": "result",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "importanza",
+  "back": "importance",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dubbio",
+  "back": "doubt",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricerca",
+  "back": "research",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dio",
+  "back": "god",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "figura",
+  "back": "figure",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piazza",
+  "back": "square",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "questione",
+  "back": "question, issue",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nemico",
+  "back": "enemy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pena",
+  "back": "punishment, sorrow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "motivo",
+  "back": "reason",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esperienza",
+  "back": "experience",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricordo",
+  "back": "memory",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "albero",
+  "back": "tree",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "politica",
+  "back": "politics, policy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "processo",
+  "back": "process, trial",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vino",
+  "back": "wine",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "porta",
+  "back": "door",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sud",
+  "back": "south",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sogno",
+  "back": "dream",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cane",
+  "back": "dog",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "isola",
+  "back": "island",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "movimento",
+  "back": "movement",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mente",
+  "back": "mind",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "occasione",
+  "back": "opportunity",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prezzo",
+  "back": "price",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "causa",
+  "back": "cause",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "periodo",
+  "back": "period",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sviluppo",
+  "back": "development",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sorella",
+  "back": "sister",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "effetto",
+  "back": "effect",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giardino",
+  "back": "garden",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attività",
+  "back": "activity",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volontà",
+  "back": "will",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volto",
+  "back": "face",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "base",
+  "back": "basis",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "carattere",
+  "back": "character",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "coscienza",
+  "back": "consciousness",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "guardia",
+  "back": "guard",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "memoria",
+  "back": "memory",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "terreno",
+  "back": "ground",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "animale",
+  "back": "animal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "direzione",
+  "back": "direction",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "eccellenza",
+  "back": "excellence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "malattia",
+  "back": "disease",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scienza",
+  "back": "science",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "funzione",
+  "back": "function",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "conseguenza",
+  "back": "consequence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "parete",
+  "back": "wall",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dente",
+  "back": "tooth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "distanza",
+  "back": "distance",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gusto",
+  "back": "taste",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "impressione",
+  "back": "impression",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "istituto",
+  "back": "institute",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quadro",
+  "back": "painting",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attenzione",
+  "back": "attention",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "autore",
+  "back": "author",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "difficoltà",
+  "back": "difficulty",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "passione",
+  "back": "passion",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "commissione",
+  "back": "commission",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dito",
+  "back": "finger",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "inizio",
+  "back": "start",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "programma",
+  "back": "program",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spettacolo",
+  "back": "show",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "titolo",
+  "back": "title",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comunicazione",
+  "back": "communication",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fenomeno",
+  "back": "phenomenon",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "maggio",
+  "back": "May",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stampa",
+  "back": "press",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "denaro",
+  "back": "money",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "destino",
+  "back": "destiny",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dovere",
+  "back": "duty",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ferro",
+  "back": "iron",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "punta",
+  "back": "tip",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "regno",
+  "back": "kingdom",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "epoca",
+  "back": "era",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "luna",
+  "back": "moon",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "provincia",
+  "back": "province",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "voglia",
+  "back": "wish, desire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "differenza",
+  "back": "difference",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "controllo",
+  "back": "control",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grazia",
+  "back": "grace",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "passato",
+  "back": "past",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spazio",
+  "back": "space",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stella",
+  "back": "star",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "corsa",
+  "back": "race, run",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "erba",
+  "back": "grass",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "massa",
+  "back": "mass",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "origine",
+  "back": "origin",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "polizia",
+  "back": "police",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "soluzione",
+  "back": "solution",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chilometro",
+  "back": "kilometer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "madre",
+  "back": "mother",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "paura",
+  "back": "fear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cuore",
+  "back": "heart",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "idea",
+  "back": "idea",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fondo",
+  "back": "bottom, background",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esempio",
+  "back": "example",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ordine",
+  "back": "order",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "posto",
+  "back": "place, seat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "campo",
+  "back": "field",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "faccia",
+  "back": "face",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "moglie",
+  "back": "wife",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ragazzo",
+  "back": "boy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bisogno",
+  "back": "need",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cielo",
+  "back": "sky",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "letto",
+  "back": "bed",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fronte",
+  "back": "forehead, front",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "conto",
+  "back": "bill, account",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "corpo",
+  "back": "body",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "numero",
+  "back": "number",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ministro",
+  "back": "minister",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "problema",
+  "back": "problem",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiesa",
+  "back": "church",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "braccio",
+  "back": "arm",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bambino",
+  "back": "child",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pensiero",
+  "back": "thought",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pace",
+  "back": "peace",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "morte",
+  "back": "death",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fine",
+  "back": "end",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "forma",
+  "back": "form, shape",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "resto",
+  "back": "rest",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "popolo",
+  "back": "people (nation)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "società",
+  "back": "society",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "studio",
+  "back": "study",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "legge",
+  "back": "law",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "libro",
+  "back": "book",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "figlia",
+  "back": "daughter",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "luogo",
+  "back": "place",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "condizione",
+  "back": "condition",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "professore",
+  "back": "teacher, professor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "marito",
+  "back": "husband",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "verità",
+  "back": "truth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "segno",
+  "back": "sign",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "diritto",
+  "back": "right",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lettera",
+  "back": "letter",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ragazza",
+  "back": "girl",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scuola",
+  "back": "school",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "camera",
+  "back": "room",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gruppo",
+  "back": "group",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "discorso",
+  "back": "speech",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "centro",
+  "back": "center",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "secolo",
+  "back": "century",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mezzo",
+  "back": "means, middle",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tipo",
+  "back": "type, guy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "colpa",
+  "back": "fault",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rispetto",
+  "back": "respect",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scena",
+  "back": "scene",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oggetto",
+  "back": "object",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "possibilità",
+  "back": "possibility",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mamma",
+  "back": "mom",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presenza",
+  "back": "presence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "teatro",
+  "back": "theater",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "caffè",
+  "back": "coffee",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "principio",
+  "back": "principle, beginning",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "termine",
+  "back": "term",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lingua",
+  "back": "tongue, language",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pezzo",
+  "back": "piece",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "capello",
+  "back": "hair",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "regione",
+  "back": "region",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "monte",
+  "back": "mountain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "università",
+  "back": "university",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "treno",
+  "back": "train",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "inverno",
+  "back": "winter",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nazione",
+  "back": "nation",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pagina",
+  "back": "page",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scopo",
+  "back": "purpose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "compagno",
+  "back": "companion, partner",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "necessità",
+  "back": "need",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "potere",
+  "back": "power",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "musica",
+  "back": "music",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dottore",
+  "back": "doctor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sentimento",
+  "back": "feeling",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nave",
+  "back": "ship",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pietra",
+  "back": "stone",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "produzione",
+  "back": "production",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "speranza",
+  "back": "hope",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dolore",
+  "back": "pain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "carne",
+  "back": "meat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "generale",
+  "back": "general",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "proposito",
+  "back": "purpose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "elemento",
+  "back": "element",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stazione",
+  "back": "station",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "materia",
+  "back": "matter, subject",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scala",
+  "back": "stairs, ladder",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "maniera",
+  "back": "manner",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "arma",
+  "back": "weapon",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "autorità",
+  "back": "authority",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gamba",
+  "back": "leg",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "patria",
+  "back": "homeland",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "albergo",
+  "back": "hotel",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gioia",
+  "back": "joy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "argomento",
+  "back": "topic",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sguardo",
+  "back": "look, gaze",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "relazione",
+  "back": "relationship, report",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "classe",
+  "back": "class",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "battaglia",
+  "back": "battle",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "viso",
+  "back": "face",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gesto",
+  "back": "gesture",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mattino",
+  "back": "morning",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "opinione",
+  "back": "opinion",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ponte",
+  "back": "bridge",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sorriso",
+  "back": "smile",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "frase",
+  "back": "sentence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "limite",
+  "back": "limit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ritorno",
+  "back": "return",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bosco",
+  "back": "woods",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esame",
+  "back": "exam",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lato",
+  "back": "side",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "operazione",
+  "back": "operation",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pranzo",
+  "back": "lunch",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "costa",
+  "back": "coast",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prato",
+  "back": "meadow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "repubblica",
+  "back": "republic",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "valle",
+  "back": "valley",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nord",
+  "back": "north",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fatica",
+  "back": "effort, fatigue",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "odore",
+  "back": "smell",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "articolo",
+  "back": "article",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "costruzione",
+  "back": "construction",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rivoluzione",
+  "back": "revolution",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "zia",
+  "back": "aunt",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "confronto",
+  "back": "comparison",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "potenza",
+  "back": "power",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sforzo",
+  "back": "effort",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sicurezza",
+  "back": "safety, security",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ufficiale",
+  "back": "officer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "crisi",
+  "back": "crisis",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cucina",
+  "back": "kitchen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gatto",
+  "back": "cat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pietà",
+  "back": "pity",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "territorio",
+  "back": "territory",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attimo",
+  "back": "moment",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "civiltà",
+  "back": "civilization",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contatto",
+  "back": "contact",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "errore",
+  "back": "error",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fretta",
+  "back": "hurry",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "intenzione",
+  "back": "intention",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cultura",
+  "back": "culture",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giudizio",
+  "back": "judgement",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spesa",
+  "back": "expense, shopping",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aiuto",
+  "back": "help",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ambiente",
+  "back": "environment",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "animo",
+  "back": "mind, spirit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bestia",
+  "back": "beast",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cortile",
+  "back": "courtyard",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pelle",
+  "back": "skin",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "proposta",
+  "back": "proposal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riva",
+  "back": "shore",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "segretario",
+  "back": "secretary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "abito",
+  "back": "dress, suit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiave",
+  "back": "key",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "corrente",
+  "back": "current",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "operaio",
+  "back": "worker",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "corso",
+  "back": "course",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "finestra",
+  "back": "window",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "arte",
+  "back": "art",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sistema",
+  "back": "system",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piano",
+  "back": "plan, floor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bocca",
+  "back": "mouth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "anima",
+  "back": "soul",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "palazzo",
+  "back": "building, palace",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "passo",
+  "back": "step",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giornata",
+  "back": "day (duration)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "servizio",
+  "back": "service",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rapporto",
+  "back": "relationship",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "milione",
+  "back": "million",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stanza",
+  "back": "room",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "valore",
+  "back": "value",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "colpo",
+  "back": "blow, hit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sangue",
+  "back": "blood",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "interesse",
+  "back": "interest",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spalla",
+  "back": "shoulder",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "silenzio",
+  "back": "silence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "signorina",
+  "back": "young lady, Miss",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ombra",
+  "back": "shadow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "azione",
+  "back": "action",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vento",
+  "back": "wind",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mattina",
+  "back": "morning",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "colore",
+  "back": "color",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presidente",
+  "back": "president",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "consiglio",
+  "back": "advice, council",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "principe",
+  "back": "prince",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "viaggio",
+  "back": "trip",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "genere",
+  "back": "kind, genre",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giornale",
+  "back": "newspaper",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spirito",
+  "back": "spirit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cavallo",
+  "back": "horse",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "muro",
+  "back": "wall",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "situazione",
+  "back": "situation",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "linea",
+  "back": "line",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giro",
+  "back": "tour, round",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "automobile",
+  "back": "car",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "atto",
+  "back": "act",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aspetto",
+  "back": "appearance",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "età",
+  "back": "age",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fortuna",
+  "back": "luck",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oro",
+  "back": "gold",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "partito",
+  "back": "party (political)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "macchina",
+  "back": "car, machine",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "carta",
+  "back": "paper",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "minuto",
+  "back": "minute",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tratto",
+  "back": "stretch, trait",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "settimana",
+  "back": "week",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "notizia",
+  "back": "news",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fratello",
+  "back": "brother",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "realtà",
+  "back": "reality",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "industria",
+  "back": "industry",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piacere",
+  "back": "pleasure",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "maestro",
+  "back": "master, teacher",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "personaggio",
+  "back": "character",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pomeriggio",
+  "back": "afternoon",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fianco",
+  "back": "side, hip",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bambina",
+  "back": "little girl",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bellezza",
+  "back": "beauty",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "domanda",
+  "back": "question",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pianta",
+  "back": "plant",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pubblico",
+  "back": "public, audience",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sede",
+  "back": "seat, headquarters",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "affare",
+  "back": "deal, business",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bene",
+  "back": "good (noun)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "metà",
+  "back": "half",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "papà",
+  "back": "dad",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fiume",
+  "back": "river",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lotta",
+  "back": "fight",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mercato",
+  "back": "market",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "angolo",
+  "back": "corner, angle",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "compagnia",
+  "back": "company",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "espressione",
+  "back": "expression",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "labbro",
+  "back": "lip",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "villa",
+  "back": "villa",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "desiderio",
+  "back": "desire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "serie",
+  "back": "series",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "visita",
+  "back": "visit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "coraggio",
+  "back": "courage",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "direttore",
+  "back": "director",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esercito",
+  "back": "army",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grado",
+  "back": "degree",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "padrone",
+  "back": "master, owner",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "risposta",
+  "back": "answer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tavola",
+  "back": "table",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "immagine",
+  "back": "image",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "montagna",
+  "back": "mountain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "energia",
+  "back": "energy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fede",
+  "back": "faith",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pane",
+  "back": "bread",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "seguito",
+  "back": "following",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "estate",
+  "back": "summer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "film",
+  "back": "movie",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "frutto",
+  "back": "fruit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "onore",
+  "back": "honor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pericolo",
+  "back": "danger",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scrittore",
+  "back": "writer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "collina",
+  "back": "hill",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "zio",
+  "back": "uncle",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "difesa",
+  "back": "defence",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "metro",
+  "back": "meter",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "collo",
+  "back": "neck",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cura",
+  "back": "care",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "disposizione",
+  "back": "arrangement, disposal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "domenica",
+  "back": "Sunday",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giovanotto",
+  "back": "young man",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "poeta",
+  "back": "poet",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stagione",
+  "back": "season",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "peso",
+  "back": "weight",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tono",
+  "back": "tone",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "croce",
+  "back": "cross",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "decisione",
+  "back": "decision",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "poesia",
+  "back": "poetry, poem",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fiducia",
+  "back": "trust",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "filo",
+  "back": "thread, wire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "folla",
+  "back": "crowd",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualità",
+  "back": "quality",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "roba",
+  "back": "stuff",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "conoscenza",
+  "back": "knowledge",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "favore",
+  "back": "favor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "popolazione",
+  "back": "population",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "strumento",
+  "back": "tool, instrument",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uso",
+  "back": "use",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vestito",
+  "back": "dress",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "commercio",
+  "back": "trade",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fabbrica",
+  "back": "factory",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giugno",
+  "back": "June",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giustizia",
+  "back": "justice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avvocato",
+  "back": "lawyer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "messa",
+  "back": "mass (church)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "orecchio",
+  "back": "ear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sonno",
+  "back": "sleep",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "congresso",
+  "back": "congress",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "porto",
+  "back": "port",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "calcio",
+  "back": "football",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fantasia",
+  "back": "imagination",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "matrimonio",
+  "back": "marriage",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "medico",
+  "back": "doctor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ospedale",
+  "back": "hospital",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pianura",
+  "back": "plain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tavolo",
+  "back": "table",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fame",
+  "back": "hunger",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "latte",
+  "back": "milk",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "merito",
+  "back": "merit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attore",
+  "back": "actor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricchezza",
+  "back": "wealth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sacrificio",
+  "back": "sacrifice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "atteggiamento",
+  "back": "attitude",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "concetto",
+  "back": "concept",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mestiere",
+  "back": "craft, trade",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attesa",
+  "back": "wait",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bagno",
+  "back": "bathroom",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "foglia",
+  "back": "leaf",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "istante",
+  "back": "instant",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lago",
+  "back": "lake",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "questo",
+  "back": "this",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quello",
+  "back": "that",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "più",
+  "back": "more",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tutto",
+  "back": "all",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "suo",
+  "back": "his, her",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "altro",
+  "back": "other",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mio",
+  "back": "my",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quale",
+  "back": "which",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tanto",
+  "back": "so much",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grande",
+  "back": "big, great",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "poco",
+  "back": "little",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "molto",
+  "back": "very, much",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nostro",
+  "back": "our",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stesso",
+  "back": "same",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "primo",
+  "back": "first",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "loro",
+  "back": "their",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ogni",
+  "back": "every",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "proprio",
+  "back": "own",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "solo",
+  "back": "only, alone",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quanto",
+  "back": "how much",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bello",
+  "back": "beautiful",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualche",
+  "back": "some",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nuovo",
+  "back": "new",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "certo",
+  "back": "certain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vero",
+  "back": "true",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "buono",
+  "back": "good",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tuo",
+  "back": "your",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nessuno",
+  "back": "nobody",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "alcuno",
+  "back": "any",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "italiano",
+  "back": "Italian",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ultimo",
+  "back": "last",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vecchio",
+  "back": "old",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piccolo",
+  "back": "small",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "troppo",
+  "back": "too much",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tale",
+  "back": "such",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giovane",
+  "back": "young",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "alto",
+  "back": "tall, high",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vostro",
+  "back": "your (plural)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "diverso",
+  "back": "different",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "meglio",
+  "back": "better",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lungo",
+  "back": "long",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "povero",
+  "back": "poor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "maggiore",
+  "back": "greater, older",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "secondo",
+  "back": "second",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lontano",
+  "back": "far",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vicino",
+  "back": "near",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "possibile",
+  "back": "possible",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "caro",
+  "back": "dear, expensive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pieno",
+  "back": "full",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nero",
+  "back": "black",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "particolare",
+  "back": "particular",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bianco",
+  "back": "white",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "forte",
+  "back": "strong",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "politico",
+  "back": "political",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attuale",
+  "back": "current",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "latino",
+  "back": "Latin",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "impossibile",
+  "back": "impossible",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sereno",
+  "back": "serene",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "puro",
+  "back": "pure",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "normale",
+  "back": "normal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "perfetto",
+  "back": "perfect",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "caratteristico",
+  "back": "characteristic",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "russo",
+  "back": "Russian",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "continuo",
+  "back": "continuous",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stupido",
+  "back": "stupid",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "estremo",
+  "back": "extreme",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grigio",
+  "back": "gray",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "reale",
+  "back": "real",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "interessante",
+  "back": "interesting",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "medesimo",
+  "back": "same",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "religioso",
+  "back": "religious",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ampio",
+  "back": "wide, large",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "biondo",
+  "back": "blond",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attento",
+  "back": "careful",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "enorme",
+  "back": "huge",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sottile",
+  "back": "thin",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "triste",
+  "back": "sad",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "minimo",
+  "back": "minimum",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "privato",
+  "back": "private",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rapido",
+  "back": "fast",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quarto",
+  "back": "fourth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "diretto",
+  "back": "direct",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nobile",
+  "back": "noble",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pericoloso",
+  "back": "dangerous",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giallo",
+  "back": "yellow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pazzo",
+  "back": "crazy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sacro",
+  "back": "sacred",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comodo",
+  "back": "comfortable",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "elettrico",
+  "back": "electric",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "assoluto",
+  "back": "absolute",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cristiano",
+  "back": "Christian",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "antico",
+  "back": "ancient",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rosso",
+  "back": "red",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiaro",
+  "back": "clear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "unico",
+  "back": "only, unique",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sicuro",
+  "back": "sure, safe",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "importante",
+  "back": "important",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vario",
+  "back": "various",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giusto",
+  "back": "right, fair",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "francese",
+  "back": "French",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vivo",
+  "back": "alive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricco",
+  "back": "rich",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grosso",
+  "back": "big",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "necessario",
+  "back": "necessary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "libero",
+  "back": "free",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nazionale",
+  "back": "national",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "basso",
+  "back": "low, short",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "semplice",
+  "back": "simple",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grave",
+  "back": "serious",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comune",
+  "back": "common",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "freddo",
+  "back": "cold",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "economico",
+  "back": "cheap, economic",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "felice",
+  "back": "happy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "difficile",
+  "back": "difficult",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tedesco",
+  "back": "German",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "breve",
+  "back": "short",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pronto",
+  "back": "ready",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "serio",
+  "back": "serious",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presente",
+  "back": "present",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "migliore",
+  "back": "best, better",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "facile",
+  "back": "easy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "terzo",
+  "back": "third",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "caldo",
+  "back": "hot",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "estero",
+  "back": "foreign, abroad",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "largo",
+  "back": "wide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "principale",
+  "back": "main",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "verde",
+  "back": "green",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "romano",
+  "back": "Roman",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "umano",
+  "back": "human",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "inutile",
+  "back": "useless",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "moderno",
+  "back": "modern",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "numeroso",
+  "back": "numerous",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "simile",
+  "back": "similar",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fresco",
+  "back": "fresh",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "militare",
+  "back": "military",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "americano",
+  "back": "American",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vuoto",
+  "back": "empty",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ciascuno",
+  "back": "each",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tranquillo",
+  "back": "quiet, calm",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contento",
+  "back": "glad",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "storico",
+  "back": "historical",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "superiore",
+  "back": "higher",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "inglese",
+  "back": "English",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fermo",
+  "back": "still, stationary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "solito",
+  "back": "usual",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "buio",
+  "back": "dark",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "strano",
+  "back": "strange",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "noto",
+  "back": "known",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prossimo",
+  "back": "next",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "profondo",
+  "back": "deep",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sociale",
+  "back": "social",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cattivo",
+  "back": "bad",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "massimo",
+  "back": "maximum",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "intero",
+  "back": "whole",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uguale",
+  "back": "equal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bravo",
+  "back": "good, skilled",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "brutto",
+  "back": "ugly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "preciso",
+  "back": "accurate",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualsiasi",
+  "back": "any",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "improvviso",
+  "back": "sudden",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "famoso",
+  "back": "famous",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "straniero",
+  "back": "foreign, foreigner",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "civile",
+  "back": "civil",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "internazionale",
+  "back": "international",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "interno",
+  "back": "internal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vasto",
+  "back": "vast",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "segreto",
+  "back": "secret",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "greco",
+  "back": "Greek",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "naturale",
+  "back": "natural",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sinistro",
+  "back": "left",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "duro",
+  "back": "hard",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stanco",
+  "back": "tired",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "azzurro",
+  "back": "light blue",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "recente",
+  "back": "recent",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "notevole",
+  "back": "remarkable",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cittadino",
+  "back": "citizen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "destro",
+  "back": "right",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "europeo",
+  "back": "European",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "zitto",
+  "back": "quiet, silent",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "medio",
+  "back": "average",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualunque",
+  "back": "whatever",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "straordinario",
+  "back": "extraordinary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nudo",
+  "back": "naked",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "futuro",
+  "back": "future",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cattolico",
+  "back": "Catholic",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "capace",
+  "back": "able",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "industriale",
+  "back": "industrial",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "personale",
+  "back": "personal, staff",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "centrale",
+  "back": "central",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tecnico",
+  "back": "technical",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dolce",
+  "back": "sweet",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "leggero",
+  "back": "light",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "morale",
+  "back": "moral",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "utile",
+  "back": "useful",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contrario",
+  "back": "contrary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "speciale",
+  "back": "special",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "peggio",
+  "back": "worse",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "minore",
+  "back": "lower, younger",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contadino",
+  "back": "farmer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "essere",
+  "back": "to be",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avere",
+  "back": "to have",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dire",
+  "back": "to say",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volere",
+  "back": "to want",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sapere",
+  "back": "to know",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stare",
+  "back": "to stay",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vedere",
+  "back": "to see",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "andare",
+  "back": "to go",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "venire",
+  "back": "to come",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dare",
+  "back": "to give",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "parlare",
+  "back": "to speak",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "trovare",
+  "back": "to find",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sentire",
+  "back": "to feel, to hear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lasciare",
+  "back": "to leave",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prendere",
+  "back": "to take",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "guardare",
+  "back": "to look",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mettere",
+  "back": "to put",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pensare",
+  "back": "to think",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "passare",
+  "back": "to pass",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "credere",
+  "back": "to believe",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "portare",
+  "back": "to bring",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "parere",
+  "back": "to seem",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tornare",
+  "back": "to return",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sembrare",
+  "back": "to seem",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tenere",
+  "back": "to keep",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "capire",
+  "back": "to understand",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "morire",
+  "back": "to die",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiamare",
+  "back": "to call",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "conoscere",
+  "back": "to know (person, place)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rimanere",
+  "back": "to stay",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiedere",
+  "back": "to ask",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cercare",
+  "back": "to search for",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "entrare",
+  "back": "to come in",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vivere",
+  "back": "to live",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aprire",
+  "back": "to open",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uscire",
+  "back": "to go out",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricordare",
+  "back": "to remember",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bisognare",
+  "back": "to be necessary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cominciare",
+  "back": "to begin",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rispondere",
+  "back": "to answer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aspettare",
+  "back": "to wait",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riuscire",
+  "back": "to succeed",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chiudere",
+  "back": "to close",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "finire",
+  "back": "to finish",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "arrivare",
+  "back": "to arrive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scrivere",
+  "back": "to write",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "diventare",
+  "back": "to become",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "restare",
+  "back": "to remain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "seguire",
+  "back": "to follow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bastare",
+  "back": "to suffice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "perdere",
+  "back": "to lose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rendere",
+  "back": "to make, to give back",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "correre",
+  "back": "to run",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "salvare",
+  "back": "to save",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vestire",
+  "back": "to dress",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "costruire",
+  "back": "to build",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "camminare",
+  "back": "to walk",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ritrovare",
+  "back": "to find again",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "durare",
+  "back": "to last",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accendere",
+  "back": "to turn on",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "evitare",
+  "back": "to avoid",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "immaginare",
+  "back": "to imagine",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ridurre",
+  "back": "to reduce",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contenere",
+  "back": "to contain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fissare",
+  "back": "to fix, to stare",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "costringere",
+  "back": "to force",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "abbandonare",
+  "back": "to abandon",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attendere",
+  "back": "to wait for",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "preferire",
+  "back": "to prefer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scegliere",
+  "back": "to choose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avvertire",
+  "back": "to warn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "proporre",
+  "back": "to propose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "temere",
+  "back": "to fear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esprimere",
+  "back": "to express",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spingere",
+  "back": "to push",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "salutare",
+  "back": "to greet",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "udire",
+  "back": "to hear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "difendere",
+  "back": "to defend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dirigere",
+  "back": "to direct",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cantare",
+  "back": "to sing",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sorgere",
+  "back": "to rise",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "assicurare",
+  "back": "to ensure",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "assumere",
+  "back": "to hire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tendere",
+  "back": "to tend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dividere",
+  "back": "to divide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scusare",
+  "back": "to excuse",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mantenere",
+  "back": "to maintain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ritenere",
+  "back": "to consider",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "concludere",
+  "back": "to conclude",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "saltare",
+  "back": "to jump",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stabilire",
+  "back": "to establish",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "appartenere",
+  "back": "to belong",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "possedere",
+  "back": "to possess",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "risultare",
+  "back": "to result",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "suonare",
+  "back": "to play (instrument), to ring",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "coprire",
+  "back": "to cover",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "insegnare",
+  "back": "to teach",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "affermare",
+  "back": "to assert",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rivelare",
+  "back": "to reveal",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "conservare",
+  "back": "to preserve",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "risolvere",
+  "back": "to solve",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "concedere",
+  "back": "to grant",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "limitare",
+  "back": "to limit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "abitare",
+  "back": "to live (reside)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "convincere",
+  "back": "to convince",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comprare",
+  "back": "to buy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "legare",
+  "back": "to tie",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sostenere",
+  "back": "to sustain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nascere",
+  "back": "to be born",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presentare",
+  "back": "to introduce",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "trattare",
+  "back": "to deal, to treat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "continuare",
+  "back": "to continue",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "partire",
+  "back": "to leave",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "servire",
+  "back": "to serve",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giungere",
+  "back": "to arrive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "apparire",
+  "back": "to appear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "amare",
+  "back": "to love",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esistere",
+  "back": "to exist",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "intendere",
+  "back": "to mean, to intend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "salire",
+  "back": "to go up",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mancare",
+  "back": "to miss",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ridere",
+  "back": "to laugh",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lavorare",
+  "back": "to work",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "alzare",
+  "back": "to raise",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riconoscere",
+  "back": "to recognize",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sedere",
+  "back": "to sit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "leggere",
+  "back": "to read",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cadere",
+  "back": "to fall",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mangiare",
+  "back": "to eat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dormire",
+  "back": "to sleep",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "raggiungere",
+  "back": "to reach",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comprendere",
+  "back": "to understand",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scendere",
+  "back": "to go down, to get off",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "compiere",
+  "back": "to fulfill",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "toccare",
+  "back": "to touch",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "considerare",
+  "back": "to consider",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "muovere",
+  "back": "to move",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stringere",
+  "back": "to tighten",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mandare",
+  "back": "to send",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "domandare",
+  "back": "to ask",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ascoltare",
+  "back": "to listen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "decidere",
+  "back": "to decide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ricevere",
+  "back": "to receive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "osservare",
+  "back": "to observe",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "permettere",
+  "back": "to allow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avvenire",
+  "back": "to occur",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spiegare",
+  "back": "to explain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "raccogliere",
+  "back": "to collect",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ottenere",
+  "back": "to obtain",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "offrire",
+  "back": "to offer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mostrare",
+  "back": "to show",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accompagnare",
+  "back": "to accompany",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dimenticare",
+  "back": "to forget",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pregare",
+  "back": "to pray",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "raccontare",
+  "back": "to tell",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bere",
+  "back": "to drink",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ritornare",
+  "back": "to return",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cambiare",
+  "back": "to change",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dimostrare",
+  "back": "to demonstrate",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sperare",
+  "back": "to hope",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sposare",
+  "back": "to marry",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ammettere",
+  "back": "to admit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fuggire",
+  "back": "to run away",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "liberare",
+  "back": "to free",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riferire",
+  "back": "to report",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "svegliare",
+  "back": "to wake up",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "capitare",
+  "back": "to happen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "posare",
+  "back": "to place",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "impedire",
+  "back": "to prevent",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gettare",
+  "back": "to throw",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vendere",
+  "back": "to sell",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "distinguere",
+  "back": "to distinguish",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "offendere",
+  "back": "to offend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rimettere",
+  "back": "to put back",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rompere",
+  "back": "to break",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "godere",
+  "back": "to enjoy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "imporre",
+  "back": "to impose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "significare",
+  "back": "to mean",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "desiderare",
+  "back": "to desire",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "divertire",
+  "back": "to amuse",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volgere",
+  "back": "to turn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giudicare",
+  "back": "to judge",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "produrre",
+  "back": "to produce",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avvicinare",
+  "back": "to approach",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "diffondere",
+  "back": "to spread",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ordinare",
+  "back": "to order",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "invitare",
+  "back": "to invite",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "discutere",
+  "back": "to discuss",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sbagliare",
+  "back": "to make a mistake",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "badare",
+  "back": "to look after",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tagliare",
+  "back": "to cut",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pubblicare",
+  "back": "to publish",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attaccare",
+  "back": "to attack",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "imparare",
+  "back": "to learn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prevedere",
+  "back": "to forecast",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scappare",
+  "back": "to run away",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spegnere",
+  "back": "to switch off",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "annunciare",
+  "back": "to announce",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "baciare",
+  "back": "to kiss",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esporre",
+  "back": "to expose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attraversare",
+  "back": "to cross",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fornire",
+  "back": "to provide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "segnare",
+  "back": "to mark",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "superare",
+  "back": "to overcome",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rivedere",
+  "back": "to see again, to review",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "allontanare",
+  "back": "to remove",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ammazzare",
+  "back": "to kill",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accogliere",
+  "back": "to welcome",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "voltare",
+  "back": "to turn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "preoccupare",
+  "back": "to worry",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "provocare",
+  "back": "to cause",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riempire",
+  "back": "to fill",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "partecipare",
+  "back": "to take part",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piantare",
+  "back": "to plant",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rientrare",
+  "back": "to re-enter",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "richiedere",
+  "back": "to request",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nascondere",
+  "back": "to hide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ripetere",
+  "back": "to repeat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scoprire",
+  "back": "to discover",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "preparare",
+  "back": "to prepare",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scorrere",
+  "back": "to flow, to scroll",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rappresentare",
+  "back": "to represent",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riprendere",
+  "back": "to resume",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "costituire",
+  "back": "to constitute",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "incontrare",
+  "back": "to meet",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "valere",
+  "back": "to be worth",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accorgersi",
+  "back": "to notice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "provare",
+  "back": "to try",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "formare",
+  "back": "to form",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uccidere",
+  "back": "to kill",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tirare",
+  "back": "to pull",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "togliere",
+  "back": "to remove",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "notare",
+  "back": "to notice",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aggiungere",
+  "back": "to add",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "succedere",
+  "back": "to happen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pagare",
+  "back": "to pay",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tentare",
+  "back": "to attempt",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accadere",
+  "back": "to happen",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "creare",
+  "back": "to create",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "importare",
+  "back": "to matter, to import",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pesare",
+  "back": "to weigh",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "usare",
+  "back": "to use",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accettare",
+  "back": "to accept",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "indicare",
+  "back": "to indicate",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "buttare",
+  "back": "to throw",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "battere",
+  "back": "to beat",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "interessare",
+  "back": "to interest",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sorridere",
+  "back": "to smile",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "condurre",
+  "back": "to lead",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "disporre",
+  "back": "to arrange, to have",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "unire",
+  "back": "to unite",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aiutare",
+  "back": "to help",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piangere",
+  "back": "to cry",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "girare",
+  "back": "to turn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "levare",
+  "back": "to lift",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "meritare",
+  "back": "to deserve",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dedicare",
+  "back": "to devote",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "iniziare",
+  "back": "to start",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sorprendere",
+  "back": "to surprise",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "trasformare",
+  "back": "to transform",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "confessare",
+  "back": "to confess",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "arrestare",
+  "back": "to arrest",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ringraziare",
+  "back": "to thank",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riunire",
+  "back": "to gather",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "volare",
+  "back": "to fly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fondare",
+  "back": "to found",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "guidare",
+  "back": "to drive",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ferire",
+  "back": "to hurt",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "opporre",
+  "back": "to oppose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "procedere",
+  "back": "to proceed",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "smettere",
+  "back": "to stop",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "consentire",
+  "back": "to allow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "innamorarsi",
+  "back": "to fall in love",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "organizzare",
+  "back": "to organize",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rifiutare",
+  "back": "to refuse",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riportare",
+  "back": "to bring back",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dipendere",
+  "back": "to depend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "provvedere",
+  "back": "to provide",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "trascinare",
+  "back": "to drag",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fumare",
+  "back": "to smoke",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scoppiare",
+  "back": "to burst",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "soffrire",
+  "back": "to suffer",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "recare",
+  "back": "to bring",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "riguardare",
+  "back": "to concern",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "rivolgere",
+  "back": "to turn, to address",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tacere",
+  "back": "to be silent",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "occorrere",
+  "back": "to be needed",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "porre",
+  "back": "to place",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vincere",
+  "back": "to win",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "svolgere",
+  "back": "to carry out",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "studiare",
+  "back": "to study",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "crescere",
+  "back": "to grow up",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "divenire",
+  "back": "to become",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "gridare",
+  "back": "to shout",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dichiarare",
+  "back": "to declare",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contare",
+  "back": "to count",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giocare",
+  "back": "to play",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "assistere",
+  "back": "to assist, to attend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "aumentare",
+  "back": "to increase",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lanciare",
+  "back": "to launch",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "determinare",
+  "back": "to determine",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scherzare",
+  "back": "to joke",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "elevare",
+  "back": "to raise",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "promettere",
+  "back": "to promise",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "scomparire",
+  "back": "to disappear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "trarre",
+  "back": "to draw",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "distruggere",
+  "back": "to destroy",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sognare",
+  "back": "to dream",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "appoggiare",
+  "back": "to support",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "armare",
+  "back": "to arm",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "celebrare",
+  "back": "to celebrate",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "descrivere",
+  "back": "to describe",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "resistere",
+  "back": "to resist",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "bruciare",
+  "back": "to burn",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "colpire",
+  "back": "to hit",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "estendere",
+  "back": "to extend",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "staccare",
+  "back": "to detach",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "affrontare",
+  "back": "to face",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avanzare",
+  "back": "to advance",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comporre",
+  "back": "to compose",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "escludere",
+  "back": "to exclude",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "figurare",
+  "back": "to appear",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "insistere",
+  "back": "to insist",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "il",
+  "back": "the (m)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "di",
+  "back": "of",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "e",
+  "back": "and",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "a",
+  "back": "to, at",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "un",
+  "back": "a, an",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "in",
+  "back": "in",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "che",
+  "back": "that, what",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "non",
+  "back": "not",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "si",
+  "back": "oneself, one",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "da",
+  "back": "from, by",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lo",
+  "back": "the (m), it",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "per",
+  "back": "for",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "con",
+  "back": "with",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ma",
+  "back": "but",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "come",
+  "back": "how, like",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "su",
+  "back": "on",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mi",
+  "back": "me",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "anche",
+  "back": "also",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "o",
+  "back": "or",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "io",
+  "back": "I",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "se",
+  "back": "if",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "perché",
+  "back": "because, why",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "li",
+  "back": "them",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ci",
+  "back": "us, there",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ne",
+  "back": "of it, of them",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lei",
+  "back": "she",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ancora",
+  "back": "still, again",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tu",
+  "back": "you",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lui",
+  "back": "he",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "senza",
+  "back": "without",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cui",
+  "back": "which, whom",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chi",
+  "back": "who",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "già",
+  "back": "already",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dopo",
+  "back": "after",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "uno",
+  "back": "one",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "noi",
+  "back": "we",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dove",
+  "back": "where",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qui",
+  "back": "here",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "no",
+  "back": "no",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "allora",
+  "back": "then",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tra",
+  "back": "between",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "vi",
+  "back": "you (plural), there",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fra",
+  "back": "between, in (time)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "prima",
+  "back": "before",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "forse",
+  "back": "perhaps",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sì",
+  "back": "yes",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sotto",
+  "back": "under",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "voi",
+  "back": "you (plural)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fino",
+  "back": "until",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oggi",
+  "back": "today",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quasi",
+  "back": "almost",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "pure",
+  "back": "also",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "egli",
+  "back": "he",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "mentre",
+  "back": "while",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "contro",
+  "back": "against",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "invece",
+  "back": "instead",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "esso",
+  "back": "it",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "là",
+  "back": "there",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "però",
+  "back": "however",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "né",
+  "back": "neither, nor",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "subito",
+  "back": "immediately",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "verso",
+  "back": "towards",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ciò",
+  "back": "this, that",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ecco",
+  "back": "here is",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "essa",
+  "back": "it, she",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "fuori",
+  "back": "outside",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "meno",
+  "back": "less",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "adesso",
+  "back": "now",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "niente",
+  "back": "nothing",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "cioè",
+  "back": "that is",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "male",
+  "back": "badly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nulla",
+  "back": "nothing",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ah",
+  "back": "ah",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oh",
+  "back": "oh",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "quindi",
+  "back": "so, therefore",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "appena",
+  "back": "as soon as, just",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "insieme",
+  "back": "together",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dunque",
+  "back": "therefore",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dentro",
+  "back": "inside",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "durante",
+  "back": "during",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "almeno",
+  "back": "at least",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "anzi",
+  "back": "on the contrary",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oramai",
+  "back": "by now",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oltre",
+  "back": "beyond",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "intorno",
+  "back": "around",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "sopra",
+  "back": "above",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dietro",
+  "back": "behind",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "davanti",
+  "back": "in front of",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "soltanto",
+  "back": "only",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "infatti",
+  "back": "indeed",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualcosa",
+  "back": "something",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "spesso",
+  "back": "often",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accordo",
+  "back": "agreement",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ieri",
+  "back": "yesterday",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "davvero",
+  "back": "really",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "lì",
+  "back": "there",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qualcuno",
+  "back": "someone",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "avanti",
+  "back": "forward, come in",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "assai",
+  "back": "very, quite",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presto",
+  "back": "soon, early",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "qua",
+  "back": "here",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "domani",
+  "back": "tomorrow",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "circa",
+  "back": "about",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "giù",
+  "back": "down",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "soprattutto",
+  "back": "above all",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "nemmeno",
+  "back": "not even",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "grazie",
+  "back": "thank you",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tuttavia",
+  "back": "however",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "appunto",
+  "back": "exactly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "neppure",
+  "back": "not even",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "eh",
+  "back": "eh",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "veramente",
+  "back": "really",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "tardi",
+  "back": "late",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "insomma",
+  "back": "in short",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "presso",
+  "back": "at, near",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "intanto",
+  "back": "meanwhile",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "neanche",
+  "back": "not even",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "piuttosto",
+  "back": "rather",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stasera",
+  "back": "tonight",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "perciò",
+  "back": "therefore",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "naturalmente",
+  "back": "naturally",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "accanto",
+  "back": "next to",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "eppure",
+  "back": "and yet",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "eccetera",
+  "back": "etc.",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "finalmente",
+  "back": "finally",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "infine",
+  "back": "finally, lastly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "poiché",
+  "back": "since",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "comunque",
+  "back": "anyway",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "dinanzi",
+  "back": "in front of",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "abbastanza",
+  "back": "enough",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "peccato",
+  "back": "sin, pity",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "certamente",
+  "back": "certainly",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "coloro",
+  "back": "those (people)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "attorno",
+  "back": "around",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "magari",
+  "back": "maybe",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "oppure",
+  "back": "or",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "inoltre",
+  "back": "moreover",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "indietro",
+  "back": "back",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "addosso",
+  "back": "on (oneself)",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "addirittura",
+  "back": "even",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "finché",
+  "back": "until",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "perfino",
+  "back": "even",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "affatto",
+  "back": "at all",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "stamattina",
+  "back": "this morning",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "completamente",
+  "back": "completely",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "probabilmente",
+  "back": "probably",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "chissà",
+  "back": "who knows",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "ognuno",
+  "back": "everyone",
+  "correct": 0,
+  "missed": 0
+ },
+ {
+  "front": "entro",
+  "back": "within",
+  "correct": 0,
+  "missed": 0
+ }
+]
