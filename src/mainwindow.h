@@ -3,6 +3,7 @@
 #include <QMainWindow>
 
 class QLabel;
+class QLineEdit;
 class QPushButton;
 
 class MainWindow : public QMainWindow {
@@ -12,23 +13,24 @@ public:
     ~MainWindow() override;
 
 private slots:
-    void flip();
-    void gotIt();
-    void missed();
+    void check();          // compare typed guess with the answer
+    void next();           // move on after a wrong answer
     void addCard();
     void restart();
     void importDeck();
 
 private:
     void showCard();
+    static bool isCorrect(const QString &guess, const QString &answer);
 
     Deck m_deck;
     QString m_path;
-    bool m_showingBack = false;
+    bool m_showingAnswer = false;   // true while a wrong answer is displayed
+    int m_known = 0;                // cards answered right this session
 
     QLabel *m_cardLabel;
+    QLabel *m_feedback;
     QLabel *m_status;
-    QPushButton *m_flipBtn;
-    QPushButton *m_gotBtn;
-    QPushButton *m_missBtn;
+    QLineEdit *m_input;
+    QPushButton *m_checkBtn;
 };
