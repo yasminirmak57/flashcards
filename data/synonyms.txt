@@ -1,0 +1,719 @@
+# Extra English answers accepted as correct. Format: italian|syn1, syn2, ...
+cosa|object, item, matter
+anno|yr
+uomo|guy, male, gentleman
+giorno|daytime
+volta|turn, occasion, once
+casa|household, residence
+parte|portion, share, side, piece
+vita|living, existence, lifetime
+tempo|times, period
+donna|lady, female
+mano|palm
+ora|o'clock, time
+signore|sir, lord, mister, man
+paese|nation, village, land, state
+momento|instant, minute, second, while
+modo|manner, method, mode, means
+mondo|earth, globe
+parola|term
+padre|dad, daddy, papa, pa, father
+punto|dot, spot, full stop, period
+lavoro|job, labour, labor, employment, occupation
+stato|nation, condition, status
+caso|chance, instance, event
+città|town
+guerra|warfare, battle, conflict
+strada|way, route, path, avenue
+figlio|child, boy, kid
+voce|sound
+nome|first name, noun
+sera|night, eve
+amico|buddy, mate, pal, companion
+fatto|event, deed, happening
+gente|folk, folks, persons
+amore|darling, dear, honey, sweetheart
+storia|tale, narrative, past
+forza|power, might, force
+testa|mind, top
+ragione|cause, right, motive
+capo|chief, leader, head
+luce|lamp, brightness
+famiglia|household, relatives
+persona|individual, human
+via|road, way, avenue
+signora|madam, ma'am, woman, wife
+senso|meaning, direction, feeling
+festa|celebration, holiday, festival, feast
+gioco|play, sport
+prova|evidence, trial, attempt, rehearsal
+campagna|country, campaign, rural area
+sala|hall, living room, chamber
+misura|size, measurement, step
+posizione|place, location, spot
+ufficio|bureau, department
+specie|kind, sort, type
+successo|achievement, hit, triumph, victory
+zona|zone, region, district
+vista|sight, eyesight, vision, panorama
+libertà|liberty
+risultato|outcome, score, effect
+dubbio|uncertainty, question
+ricerca|search, investigation, study
+figura|shape, character, diagram, picture
+piazza|plaza, square
+questione|matter, problem
+nemico|foe, opponent, rival
+pena|penalty, sentence, pain, grief
+motivo|cause, motive, pattern
+esperienza|know-how
+ricordo|souvenir, remembrance, recollection
+porta|gate, doorway
+cane|puppy, hound
+mente|intellect, brain
+occasione|chance, occasion, bargain
+prezzo|cost, value
+causa|reason, lawsuit
+effetto|result, consequence, impact
+volto|visage
+base|foundation, base
+carattere|personality, nature, temper
+memoria|remembrance, recollection
+terreno|land, soil, terrain, earth
+malattia|illness, sickness
+funzione|role, purpose, service
+parete|partition
+gusto|flavour, flavor, liking
+quadro|picture, frame, framework
+attenzione|care, caution
+difficoltà|trouble, problem, hardship
+inizio|beginning, start, onset
+spettacolo|performance, show
+titolo|heading, headline, degree
+stampa|print, printing
+denaro|cash, currency
+destino|fate, destination
+punta|point, peak, end
+epoca|age, period, time
+voglia|desire, craving, urge, mood
+controllo|check, inspection
+spazio|room, area, gap, place
+corsa|running, race, ride
+paura|fright, dread, terror
+cuore|core, centre, center
+fondo|bottom, end, fund, depth
+ordine|command, sequence, tidiness
+posto|spot, position, room, job
+faccia|visage, side
+moglie|spouse
+ragazzo|lad, kid, boyfriend, young man
+bisogno|necessity, requirement
+cielo|heaven, heavens
+conto|check, tab, account, bill
+numero|figure, digit, size
+problema|issue, trouble, matter
+bambino|kid, baby, boy, infant
+pensiero|idea, concern, worry
+fine|ending, finish, conclusion, purpose
+forma|form, shape, mold
+resto|remainder, change, leftover
+popolo|nation, folk
+legge|rule, statute
+figlia|girl, child
+luogo|location, spot, site
+professore|teacher, lecturer
+marito|spouse
+segno|mark, signal, trace, symbol
+diritto|law, entitlement
+ragazza|lass, girlfriend, young woman
+camera|bedroom, chamber
+discorso|talk, discourse, address
+centro|middle, core, downtown
+mezzo|middle, half, vehicle, medium
+tipo|kind, sort, fellow, chap
+colpa|blame, guilt, sin
+rispetto|regard, esteem
+oggetto|thing, item, subject
+mamma|mum, mother, mommy, mummy, mama
+presenza|attendance
+termine|deadline, end, word
+lingua|tongue, language
+pezzo|bit, part, chunk
+capello|a hair
+monte|mount, mountain, hill
+nazione|country
+pagina|sheet
+scopo|aim, goal, objective, purpose
+compagno|mate, comrade, classmate, boyfriend
+necessità|necessity, requirement
+potere|authority, might, control
+dottore|physician, doctor, dr
+sentimento|emotion, sentiment
+nave|vessel, boat
+pietra|rock
+speranza|wish
+dolore|ache, hurt, grief, sorrow
+carne|flesh, beef
+proposito|intention, intent, aim
+materia|substance, material, topic, course
+scala|staircase, stairway, scale, steps
+maniera|way, style
+arma|gun, arm
+gamba|limb
+patria|motherland, fatherland, native land
+albergo|inn
+gioia|happiness, delight, jewel
+argomento|subject, issue, theme, argument
+sguardo|glance, stare, gaze
+relazione|connection, affair, link
+classe|grade, form, classroom
+battaglia|fight, combat
+viso|visage, countenance
+mattino|am, dawn
+ponte|deck
+sorriso|grin
+frase|phrase, clause
+limite|boundary, border, edge
+bosco|forest, wood
+esame|test, examination, check-up
+lato|edge, aspect, flank
+pranzo|dinner, midday meal
+costa|shore, coastline, rib, slope
+prato|lawn, field, grass
+nord|north
+fatica|tiredness, exhaustion, hard work, toil
+odore|scent, odor, odour
+zia|auntie
+confronto|comparison, contrast, confrontation
+sforzo|strain, attempt
+sicurezza|certainty, confidence
+crisi|breakdown, emergency
+gatto|kitty, kitten, tomcat
+attimo|second, minute, instant
+errore|mistake, fault, slip
+fretta|rush, haste, hurry
+giudizio|judgment, opinion, verdict
+spesa|cost, purchase, groceries, spending
+aiuto|assistance, aid, support
+ambiente|surroundings, setting, room
+bestia|animal, creature, brute
+riva|bank, edge, coast
+abito|clothes, outfit, suit, dress, garment
+chiave|wrench, clue
+operaio|labourer, laborer, workman
+corso|course, avenue, class
+finestra|pane
+piano|plan, floor, storey, story, piano, level
+anima|spirit, heart
+palazzo|mansion, block
+passo|footstep, pace, pass
+giornata|day, daytime
+servizio|duty, favour, favor
+rapporto|report, ratio, connection
+stanza|chamber
+valore|value, worth, courage, merit
+colpo|shot, stroke, knock, punch
+silenzio|quiet, quietness
+signorina|miss, young lady, girl
+ombra|shade
+vento|breeze
+mattina|morning, am
+consiglio|tip, suggestion, recommendation, board
+viaggio|journey, travel, voyage
+genere|type, sort, gender
+giornale|paper, journal, daily
+spirito|ghost, wit, mind, soul
+cavallo|stallion, mare, pony
+muro|barrier
+situazione|state of affairs, position, circumstances
+giro|ride, trip, lap, turn, walk, spin
+automobile|automobile, auto, vehicle
+aspetto|look, aspect, appearance
+età|era, years
+fortuna|fortune, chance
+partito|match
+macchina|automobile, vehicle, engine, auto
+carta|card, map, paper
+tratto|feature, section, stroke
+notizia|news, report, piece of news, information
+realtà|truth, actuality
+piacere|delight, enjoyment, favour, favor, pleasure
+maestro|teacher, schoolteacher, maestro, expert
+personaggio|figure, personality
+bambina|girl, child, baby girl
+domanda|request, demand, application, query
+pianta|map, floor plan, sole
+pubblico|public, spectators, viewers
+affare|bargain, business, matter, affair
+bene|well, asset, welfare
+papà|daddy, father, papa, pa, pop, pops
+lotta|struggle, battle, wrestling
+compagnia|firm, group, companionship
+labbro|lips
+desiderio|wish, longing, craving
+visita|appointment, check-up, tour
+coraggio|bravery, boldness, guts
+direttore|manager, headmaster, principal, conductor, editor
+esercito|military, troops
+padrone|owner, landlord, boss
+risposta|reply, response
+tavola|board, plank, table
+immagine|picture, photo
+energia|power, strength
+fede|belief, wedding ring
+frutto|result, product
+onore|honour
+pericolo|risk, hazard, threat
+zio|uncle
+cura|cure, treatment, attention
+peso|burden, load
+croce|crucifix
+fiducia|confidence, faith, reliance
+filo|string, yarn, line
+folla|throng, mob
+roba|things, belongings, gear
+favore|favour, kindness
+strumento|device, instrument, implement
+uso|usage, custom, function
+vestito|suit, clothes, outfit, gown
+commercio|commerce, business
+fabbrica|plant, mill, works
+messa|setting, putting
+sonno|slumber, sleepiness
+porto|harbour, harbor
+calcio|soccer, kick, calcium
+fantasia|fancy, fantasy, pattern
+medico|physician
+pianura|lowland, plains
+tavolo|desk
+fame|hunger, starvation
+attesa|waiting, expectation, delay
+bagno|bath, toilet, restroom, swim
+foglia|leaf
+istante|moment, second
+più|plus, most
+tutto|everything, whole
+suo|its, your
+altro|another, else, more
+quale|what
+tanto|so, much, a lot
+grande|large, huge, tall, adult
+poco|few, not much, bit
+molto|a lot, many, lot
+stesso|self, identical
+solo|lonely, just, single, sole
+bello|handsome, pretty, nice, lovely, fine, gorgeous
+qualche|a few, several, any
+certo|sure, of course, certainly
+vero|real, genuine, right
+buono|tasty, kind, nice, fine
+nessuno|no one, none, anybody, anyone
+alcuno|some, no
+ultimo|final, latest
+vecchio|aged, elderly, ancient
+piccolo|little, tiny, young
+troppo|too, excessive
+giovane|youth, youthful
+alto|loud
+diverso|various, unlike, several
+lungo|lengthy, along
+povero|needy
+maggiore|bigger, larger, major, eldest, elder
+lontano|distant, away, faraway
+vicino|close, nearby, neighbour, neighbor, next to
+caro|expensive, costly, darling
+pieno|filled, crowded, packed
+particolare|special, peculiar, detail
+forte|loud, powerful, tough
+politico|politician
+attuale|present, contemporary
+sereno|calm, clear, peaceful
+puro|clean, sheer, mere
+normale|ordinary, usual, regular
+perfetto|flawless, ideal
+continuo|constant, ongoing
+stupido|dumb, silly, foolish, idiot
+estremo|utmost, extremist
+reale|royal, actual
+medesimo|identical, very
+ampio|broad, ample, spacious, roomy
+attento|attentive, cautious
+enorme|enormous, giant, massive, vast
+sottile|fine, slim, slender, subtle
+triste|unhappy, sorrowful, gloomy
+minimo|least, smallest, minimal, slightest
+rapido|quick, rapid, swift
+diretto|straight
+nobile|noble, nobleman
+pazzo|mad, insane, madman
+sacro|holy
+comodo|convenient, cosy, cozy, handy
+assoluto|total, complete, utter
+antico|old, antique, ancient
+rosso|red
+chiaro|light, bright, plain, obvious
+unico|single, sole, only one, unique
+sicuro|safe, secure, certain, confident
+vario|varied, several, assorted
+giusto|correct, just, exact, fair
+vivo|living, lively
+grosso|large, thick, fat, huge
+necessario|needed, essential
+libero|vacant, available, free
+basso|short, low, bass
+semplice|easy, plain, simple
+grave|severe, heavy, grave
+comune|common, ordinary, town hall, municipality
+freddo|chilly, cool
+economico|inexpensive, affordable, economical
+felice|glad, cheerful, content
+difficile|hard, tough, tricky
+breve|brief, short
+pronto|hello, prepared
+serio|grave, earnest, solemn
+presente|current, present tense
+migliore|better
+facile|simple
+caldo|warm, heat, hot
+estero|abroad, overseas
+largo|broad, loose
+principale|chief, major, primary, principal
+inutile|pointless, needless, futile
+moderno|contemporary, up to date
+numeroso|many, large
+simile|alike, like
+fresco|cool, new
+vuoto|blank, void, vacant
+tranquillo|peaceful, calm, quiet, still
+contento|happy, pleased, satisfied
+storico|historic, historian
+superiore|upper, superior
+fermo|still, steady, firm, stopped
+solito|usual, customary, same
+buio|darkness
+strano|odd, weird, peculiar
+noto|well-known, famous
+prossimo|next, upcoming, neighbour
+profondo|profound
+cattivo|naughty, evil, mean, wicked, nasty
+massimo|greatest, highest, utmost, top
+intero|entire, complete, full
+uguale|same, identical
+bravo|clever, skilful, skilled, well done
+brutto|bad, nasty, horrible
+preciso|precise, exact, punctual
+qualsiasi|whatever, whichever, any
+improvviso|abrupt, unexpected
+famoso|well-known, renowned
+segreto|hidden
+sinistro|sinister
+duro|tough, harsh, stiff
+stanco|weary, exhausted, sleepy
+azzurro|sky blue, blue
+notevole|considerable, significant, noteworthy
+destro|right-hand, skilful
+zitto|silent, shut up
+medio|middle, medium, mean
+qualunque|any, whichever, ordinary
+nudo|bare, nude
+capace|capable, skilled
+dolce|gentle, soft, dessert, cake
+leggero|slight, mild, soft
+utile|handy, profitable
+contrario|opposite, reverse
+peggio|worst
+minore|minor, smaller, lesser
+contadino|peasant
+essere|exist
+avere|own, possess, get
+dire|tell
+volere|wish
+sapere|know how
+stare|be, remain
+vedere|watch, look
+venire|arrive
+dare|hand
+parlare|talk
+lasciare|let, allow, abandon, quit
+prendere|get, catch, grab, have, pick up
+guardare|watch, see
+mettere|place, set, wear
+passare|go by, spend, hand
+credere|think, trust
+portare|carry, wear, take
+parere|appear, look
+tornare|come back, go back, get back
+tenere|hold
+capire|get, grasp, realize, realise
+chiamare|phone, name, ring
+conoscere|meet, be acquainted with
+rimanere|remain, be left
+chiedere|request, demand, inquire, enquire
+cercare|look for, seek, try
+entrare|enter, go in, get in
+vivere|reside, dwell
+aprire|unlock, turn on
+uscire|exit, leave, get out
+ricordare|recall, remind
+cominciare|start, commence
+rispondere|reply, respond
+aspettare|wait for, await, expect
+riuscire|manage, be able
+chiudere|shut, lock, turn off
+finire|end, complete, run out
+arrivare|come, reach, get to
+diventare|get, turn into, grow
+restare|stay, be left
+bastare|be enough
+perdere|miss, waste
+rendere|return, render
+salvare|rescue
+vestire|clothe
+costruire|construct, make
+camminare|stroll
+durare|continue
+accendere|switch on, light
+evitare|prevent
+contenere|hold, include
+fissare|stare, set, arrange
+costringere|compel, oblige
+attendere|await, wait
+preferire|like better
+scegliere|select, pick
+avvertire|notify, inform, feel
+proporre|suggest, offer
+temere|be afraid
+spingere|press, shove
+salutare|say hello, say goodbye, wave
+udire|listen
+difendere|protect, stick up for
+dirigere|manage, run, lead, conduct
+sorgere|arise, come up
+assicurare|assure, insure
+assumere|take on, employ, assume
+dividere|split, share
+scusare|forgive, apologize
+mantenere|keep, support
+ritenere|think, believe, deem
+concludere|finish, end
+saltare|leap, skip
+stabilire|set, determine
+possedere|own, have
+coprire|hide
+affermare|state, claim
+rivelare|disclose
+conservare|keep, store
+risolvere|resolve, settle, fix
+concedere|allow, give
+abitare|live, reside
+comprare|purchase, get
+legare|bind, link
+sostenere|support, claim, maintain
+presentare|present
+trattare|handle, negotiate
+partire|depart, set off, go away
+servire|need, be useful
+giungere|reach, come
+apparire|seem
+intendere|understand, hear
+salire|climb, rise, get on, get in
+mancare|lack, be missing
+lavorare|labour, labor
+alzare|lift, raise up
+riconoscere|acknowledge, admit
+sedere|be seated
+raggiungere|achieve, catch up
+comprendere|include, comprehend
+scendere|descend, get out, go downstairs
+toccare|feel
+muovere|stir
+stringere|squeeze, grip, hold tight
+mandare|ship
+domandare|ask for, question
+ascoltare|hear, listen to
+decidere|determine, choose
+osservare|watch, notice
+permettere|let, permit
+avvenire|happen, take place
+spiegare|unfold
+raccogliere|gather, pick, pick up
+ottenere|get, achieve, gain
+mostrare|display, exhibit
+accompagnare|go with, escort
+raccontare|narrate
+cambiare|exchange, switch
+sposare|wed
+fuggire|escape, flee
+liberare|release, set free, rescue
+svegliare|awaken, wake
+capitare|occur
+gettare|toss, fling
+rompere|smash, crack
+godere|delight
+divertire|entertain
+giudicare|assess
+avvicinare|draw near
+diffondere|broadcast, distribute
+ordinare|arrange, command
+discutere|debate, argue
+tagliare|chop, trim, slice
+attaccare|stick, hang, attach
+imparare|study
+prevedere|predict, foresee, expect
+scappare|escape, flee
+spegnere|turn off, put out
+annunciare|declare
+attraversare|go across, pass through
+fornire|supply
+superare|pass, exceed, surpass, beat
+allontanare|move away, send away
+ammazzare|murder
+accogliere|receive, host, accept
+voltare|turn round
+preoccupare|concern, trouble
+riempire|fill up, fill in
+richiedere|require, ask for
+nascondere|conceal
+scoprire|find out, uncover
+riprendere|recover, take back, continue
+incontrare|encounter, see
+accorgersi|realize, realise
+provare|test, feel, try on
+uccidere|murder, slay
+tirare|throw, draw
+togliere|take off, take away
+notare|note, observe
+pagare|pay for
+tentare|try
+creare|make, produce
+importare|import
+usare|utilize, utilise, employ
+accettare|agree to, take
+buttare|throw away, toss
+battere|hit, knock, defeat
+condurre|conduct, guide, run
+aiutare|assist, aid
+girare|spin, rotate, shoot, wander
+levare|remove, raise
+iniziare|begin, commence
+trasformare|change, convert
+arrestare|stop, halt
+riunire|unite, reunite
+guidare|lead, steer, guide
+ferire|injure, wound
+smettere|quit, cease
+consentire|permit, let
+rifiutare|reject, decline, turn down
+riportare|return, report
+fumare|smoke
+soffrire|suffer
+tacere|keep quiet, shut up
+porre|put, set
+vincere|beat, defeat
+studiare|learn
+crescere|grow, raise
+gridare|scream, yell, cry
+contare|rely, matter
+giocare|gamble
+aumentare|raise, rise, grow
+lanciare|throw, toss
+promettere|pledge
+distruggere|ruin, demolish
+appoggiare|lean, back, put down
+bruciare|sting
+colpire|strike, impress
+staccare|unplug, remove
+affrontare|confront, tackle
+escludere|rule out
+e|plus
+ma|yet
+come|as
+su|about, up, upon
+mi|myself, to me
+anche|too, as well, even
+perché|so that
+ci|ourselves, here
+lei|her, you
+ancora|yet, more, anchor
+lui|him
+chi|whom
+già|yet
+dopo|later, afterwards, then
+allora|so, at that time
+tra|among, in
+prima|first, earlier
+forse|maybe, possibly
+sotto|below, beneath, underneath
+oggi|nowadays
+quasi|nearly
+egli|him
+mentre|whereas
+contro|versus
+invece|rather
+là|over there
+però|but, though, yet
+subito|right away, at once, straight away
+verso|toward, around, about
+ecco|here, there is, here you are
+fuori|out
+meno|minus, fewer
+adesso|right now
+niente|anything, none
+male|bad, evil, ache
+nulla|anything, void
+quindi|thus, hence, then
+appena|barely, hardly, just
+dunque|so, thus, well
+durante|throughout
+almeno|at the very least
+oltre|over, past, besides
+intorno|about, round
+sopra|over, on, upstairs
+dietro|after
+soltanto|just, merely, solely
+infatti|in fact, actually
+qualcosa|anything
+spesso|frequently, thick
+ieri|the day before
+davvero|truly, indeed
+qualcuno|somebody, anyone, anybody
+avanti|ahead, on, come in
+assai|very much, a lot
+presto|early, quickly
+circa|approximately, around, roughly
+giù|downstairs, below
+soprattutto|especially, mainly, mostly, above all
+nemmeno|neither, nor
+grazie|thanks
+tuttavia|nevertheless, still, yet
+veramente|truly, actually
+tardi|later
+insomma|basically, so, well
+intanto|in the meantime
+neanche|neither, nor
+piuttosto|quite, fairly, instead
+stasera|this evening
+perciò|so, hence, thus
+naturalmente|of course, obviously
+accanto|beside, nearby, next door
+eppure|yet, still, nevertheless
+finalmente|at last
+infine|in the end, eventually
+poiché|because, as
+comunque|however, still, anyhow
+abbastanza|quite, rather, fairly, sufficiently
+peccato|pity, shame, what a pity
+certamente|surely, of course, definitely
+magari|perhaps, if only, possibly
+oppure|or else, otherwise
+inoltre|furthermore, besides, also
+indietro|behind, backwards
+addirittura|actually, really
+finché|as long as
+perfino|even
+affatto|completely, not at all
+completamente|totally, entirely, fully
+probabilmente|likely, maybe
+chissà|maybe, perhaps, I wonder
+ognuno|everybody, each, each one
+entro|by, inside
