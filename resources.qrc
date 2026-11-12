@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/italian_1000.json</file>
+    </qresource>
+</RCC>
