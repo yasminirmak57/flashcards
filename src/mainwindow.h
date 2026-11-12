@@ -4,6 +4,7 @@
 
 class QLabel;
 class QLineEdit;
+class QProgressBar;
 class QPushButton;
 
 class MainWindow : public QMainWindow {
@@ -37,6 +38,9 @@ private:
     QLabel *m_cardLabel;
     QLabel *m_feedback;
     QLabel *m_status;
+    QLabel *m_groupLabel;
+    QProgressBar *m_progress;
+    void setFeedback(const QString &text, const QString &kind);   // kind: ok / bad / info / empty
     QLineEdit *m_input;
     QPushButton *m_checkBtn;
     QPushButton *m_prevBtn;
