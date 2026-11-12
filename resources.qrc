@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>data/italian_1000.json</file>
+        <file>icon/icon.png</file>
     </qresource>
 </RCC>

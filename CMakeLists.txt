@@ -8,7 +8,19 @@ set(CMAKE_AUTORCC ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
+# App icon: CI creates icon/flashcards.icns (macOS) and icon/flashcards.ico (Windows) from icon/icon.png
+set(APP_ICON "")
+if(APPLE AND EXISTS ${CMAKE_SOURCE_DIR}/icon/flashcards.icns)
+    set(APP_ICON ${CMAKE_SOURCE_DIR}/icon/flashcards.icns)
+    set_source_files_properties(${APP_ICON} PROPERTIES MACOSX_PACKAGE_LOCATION Resources)
+endif()
+if(WIN32 AND EXISTS ${CMAKE_SOURCE_DIR}/icon/flashcards.ico)
+    file(WRITE ${CMAKE_BINARY_DIR}/app.rc "IDI_ICON1 ICON \"${CMAKE_SOURCE_DIR}/icon/flashcards.ico\"\n")
+    set(APP_ICON ${CMAKE_BINARY_DIR}/app.rc)
+endif()
+
 add_executable(flashcards
+    ${APP_ICON}
     src/main.cpp
     src/card.h
     src/deck.h
@@ -23,5 +35,7 @@ target_link_libraries(flashcards PRIVATE Qt6::Widgets)
 # Make it a proper app bundle on macOS and a GUI app (no console) on Windows
 set_target_properties(flashcards PROPERTIES
     MACOSX_BUNDLE TRUE
+    MACOSX_BUNDLE_ICON_FILE flashcards.icns
+    MACOSX_BUNDLE_BUNDLE_NAME Flashcards
     WIN32_EXECUTABLE TRUE
 )
