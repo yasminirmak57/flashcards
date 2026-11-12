@@ -22,6 +22,23 @@ jobs:
         with:
           version: "6.9.*"
 
+      - name: Make icon from the lace photo
+        run: |
+          python3 -m pip install --quiet pillow || python -m pip install --quiet pillow
+          python3 tools/make_icon.py --ico || python tools/make_icon.py --ico
+        shell: bash
+
+      - name: Make .icns (macOS)
+        if: runner.os == 'macOS'
+        run: |
+          mkdir icon.iconset
+          for s in 16 32 128 256; do
+            sips -z $s $s icon/icon.png --out icon.iconset/icon_${s}x${s}.png
+            sips -z $((s*2)) $((s*2)) icon/icon.png --out icon.iconset/icon_${s}x${s}@2x.png
+          done
+          cp icon/icon.png icon.iconset/icon_512x512.png
+          iconutil -c icns icon.iconset -o icon/flashcards.icns
+
       - name: Build
         run: |
           cmake -B build -DCMAKE_BUILD_TYPE=Release
