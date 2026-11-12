@@ -39,8 +39,13 @@ jobs:
       - name: Package (macOS)
         if: runner.os == 'macOS'
         run: |
-          macdeployqt build/flashcards.app -dmg
-          mv build/flashcards.dmg Flashcards-macOS.dmg
+          macdeployqt build/flashcards.app
+          # ad-hoc sign so macOS doesn't call the app "damaged"
+          codesign --force --deep -s - build/flashcards.app
+          mkdir dmg
+          cp -R build/flashcards.app dmg/
+          ln -s /Applications dmg/Applications
+          hdiutil create -volname Flashcards -srcfolder dmg -ov -format UDZO Flashcards-macOS.dmg
 
       - uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
